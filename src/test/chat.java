@@ -4,7 +4,7 @@ import java.net.DatagramSocket;
 import java.net.InetAddress;
 
 public class chat {
-//UDP协议进行数据的发送
+//UDP协议进行数据的发送 
 	public static void main(String[] args) throws Exception{
 		//创建socket服务
 		//发送的端口号可在数据中指定
