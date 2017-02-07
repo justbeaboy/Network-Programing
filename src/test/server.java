@@ -4,7 +4,7 @@ import java.net.DatagramSocket;
 
 public class server {
 	
-	public static void main(String[] args) throws Exception{
+	public static void main(String[] args) throws Exception{ 
 		//创建socket服务
 		DatagramSocket ds = new DatagramSocket(8080);
 		//定义一个缓冲区，用于接收数据
